@@ -1,5 +1,6 @@
 # NatROl
-an script for nations roleplay 2 and 1
+Nations roleplay 2 and 1 script
+
 
 --paint the world rainbow script
 local user = game.Players.LocalPlayer
